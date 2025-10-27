@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/xiaoyu/Projects/polynomial/cpp/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -Dpolynomial_EXPORTS  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -std=c++23 -arch arm64 -fPIC @CMakeFiles/polynomial.dir/src/polynomial.cppm.o.modmap -o CMakeFiles/polynomial.dir/src/polynomial.cppm.o -c /Users/xiaoyu/Projects/polynomial/cpp/src/polynomial.cppm",
+  "file": "/Users/xiaoyu/Projects/polynomial/cpp/src/polynomial.cppm",
+  "output": "/Users/xiaoyu/Projects/polynomial/cpp/build/CMakeFiles/polynomial.dir/src/polynomial.cppm.o"
+},
+{
+  "directory": "/Users/xiaoyu/Projects/polynomial/cpp/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -std=c++23 -arch arm64 @examples/CMakeFiles/hello.dir/hello.cpp.o.modmap -o examples/CMakeFiles/hello.dir/hello.cpp.o -c /Users/xiaoyu/Projects/polynomial/cpp/examples/hello.cpp",
+  "file": "/Users/xiaoyu/Projects/polynomial/cpp/examples/hello.cpp",
+  "output": "/Users/xiaoyu/Projects/polynomial/cpp/build/examples/CMakeFiles/hello.dir/hello.cpp.o"
+}
+]

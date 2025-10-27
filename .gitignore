@@ -1,0 +1,13 @@
+**/.DS_Store
+
+rust/target
+rust/Cargo.lock
+
+julia/Manifest.toml
+
+cpp/.xmake/
+cpp/bin
+cpp/examples/bin
+cpp/build
+cpp/lib
+cpp/.cache
